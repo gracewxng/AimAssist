@@ -6,13 +6,15 @@
     --text-colour: #3e3e3e;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+
 *{
     margin: 0;
     padding: 0;
 }
 
 html{
-    font-family: 'Poppins';
+    font-family: 'Lato', sans-serif; /* Updated to Lato */
     font-size: 16pt;
     color: var(--text-colour);
 }
@@ -154,6 +156,5 @@ input[type="checkbox"]{
     h1{
         margin-top: 50px;
         font-size: 15vw;
-        
     }
 }
