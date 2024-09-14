@@ -1,1 +1,3 @@
-# TodoApp
+# AimAssist
+
+https://aimassist.vercel.app/
